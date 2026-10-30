@@ -1,0 +1,8 @@
+{
+  "name": "ChittoorAds - Search Local | Go Digital",
+  "description": "Chittoor's premier local business directory and classifieds portal. Find verified local services, contact details, user reviews, and post free ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
